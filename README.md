@@ -680,3 +680,7 @@ The Work is free and open, but its spirit, intent, and humanitarian purpose must
 The QVM™, QFM™, QFP™, QPU™, QWASM™, Quansistor™, and the Smrk Hamiltonian are part of an open humanitarian computational framework. All rights retained for naming consistency, but the system is perpetually open for research, charity, and public benefit.
 
 This is a living README. More sections will be appended as the system evolves.
+
+Divadelní hra,
+
+v hlavních rolích: Adam Kracík, Pinker ze CNN = dřívější ředitel CzechKosmosIntitůů a JůNOU=ZERO, štědovečerníííííííííííí stromeček3THree, verlibáák král všech Degénů,   už ani nevim, jak se menoval ten z toho tajemnýho networku, nejradši bych to zavolal i volajemovy...    ..... ///Anycoin/// ///club10///  
