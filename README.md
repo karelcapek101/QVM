@@ -583,6 +583,100 @@ Navier‑Stokes QFM spectral solver
 
 14. License
 
+15. KarelCapek101 License, Version 1.0
+
+Copyright ©
+2025 Roman Smrčka („Author“)
+and any contributors explicitly acknowledged in project materials.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Derivation from Apache License 2.0
+
+This license is based on the structure and permissions of the Apache License 2.0, but modifies and extends several provisions.
+Where not explicitly overridden by the text below, the Apache License 2.0 terms shall be considered applicable.
+
+2. Definitions
+
+“Work” means the software, documents, mathematical constructs, architectures, whitepapers, operator formalizations, or any other material provided under this license.
+
+“You” means any individual or entity exercising permissions granted by this license.
+
+“Enter Yourname Conditions” means the ethical, humanitarian, and non-exploitative usage principles defined below.
+
+3. Grant of Copyright License
+
+Subject to the terms and conditions of this License, the Author hereby grants to You a perpetual, worldwide, non-exclusive, royalty-free copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute the Work and such derivative works.
+
+4. Grant of Patent License
+
+Subject to the terms and conditions of this License, the Author grants You a perpetual, worldwide, non-exclusive, royalty-free patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, only if such use complies with the Enter Yourname Conditions.
+
+5. Enter Yourname Conditions (Mandatory Ethical Requirements)
+
+All use of the Work, including any derivative or extended Works, must comply with the following principles:
+
+Humanitarian Purpose:
+The Work may only be used in ways that provide benefit, safety, security, or advancement for humanity.
+
+Non-exploitation:
+The Work may not be used to harm individuals, groups, or nations; nor may it be used for surveillance, oppression, military aggression, or concentrated power that removes freedom or safety from others.
+
+No Exclusive Ownership:
+No entity may claim exclusive ownership or monopolistic control over the Work or its core components (QVM™, QFM™, QPU™, QFP™, Quansistor™, Smrk Hamiltonian, etc.).
+
+Transparency of Deployment:
+Any deployment of the Work affecting public systems, cryptography, finance, scientific infrastructure, or social processes must be openly documented.
+
+Right to Human Life Without Quantum Shift:
+The Work may not be used to forcibly alter, predict, classify, or manipulate the cognitive, existential, or behavioral state of any human being.
+
+Freedom-Compatible Token Governance:
+If used with tokenized or blockchain governance systems, no control mechanism may override or suppress individual human autonomy.
+
+Violation Clause
+
+Violation of the Enter Yourname Conditions automatically terminates all rights granted by this license, including patent rights.
+
+6. Redistribution Requirements
+
+Redistributions of the Work or derivative works must:
+
+include this License in full,
+
+include prominent notice that the Work is licensed under the KarelCapek-101 License,
+
+identify all modifications made.
+
+7. Trademark Notice
+
+The following terms are protected naming conventions under this License:
+
+QVM™, QFM™, QFP™, QPU™, QWASM™,
+
+Quansistor™,
+
+Smrk Hamiltonian™,
+
+CFM™, CFP™,
+
+any derived terminology containing these tokens.
+
+Use of these terms is permitted under this License only if compliant with Enter Yourname Conditions.
+
+8. Disclaimer of Warranty
+
+The Work is provided on an “AS IS” BASIS, without warranties or conditions of any kind, either express or implied.
+
+9. Limitation of Liability
+
+In no event shall the Author or contributors be liable for any claim, damages, or other liability arising from the use of the Work.
+
+10. Retained Rights
+
+The Author retains all rights to the naming, direction, ethical framework, and mission of the Work.
+The Work is free and open, but its spirit, intent, and humanitarian purpose must be preserved.
+
 The QVM™, QFM™, QFP™, QPU™, QWASM™, Quansistor™, and the Smrk Hamiltonian are part of an open humanitarian computational framework. All rights retained for naming consistency, but the system is perpetually open for research, charity, and public benefit.
 
 This is a living README. More sections will be appended as the system evolves.
