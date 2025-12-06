@@ -683,4 +683,4 @@ This is a living README. More sections will be appended as the system evolves.
 
 Divadelní hra,
 
-v hlavních rolích: Adam Kracík, Pinker ze CNN = dřívější ředitel CzechKosmosIntitůů a JůNOU=ZERO, štědovečerníííííííííííí stromeček3THree, verlibáák král všech Degénů,   už ani nevim, jak se menoval ten z toho tajemnýho networku, nejradši bych to zavolal i volajemovy...    ..... ///Anycoin/// ///club10///  
+v hlavních rolích: Čapek: Adam Kracík, Hlas Svobodné Evropy: Pinker ze CNN = dřívější ředitel CzechKosmosIntitůů a JůNOU=ZERO, Rozum: stromeček3THree, verlibáák král všech Degénů,   už ani nevim, jak se menoval ten z toho tajemnýho networku,    nejradši bych to zavolal i volajemovy...  a další   ..... ///Anycoin/// ///club10///  
