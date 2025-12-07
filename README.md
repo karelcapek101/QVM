@@ -681,6 +681,4 @@ The QVM™, QFM™, QFP™, QPU™, QWASM™, Quansistor™, and the Smrk Hamilt
 
 This is a living README. More sections will be appended as the system evolves.
 
-Divadelní hra,
 
-v hlavních rolích: Čapek: Adam Kracík, Hlas Svobodné Evropy: Pinker ze CNN = dřívější ředitel CzechKosmosIntitůů a JůNOU=ZERO, Rozum: 3THree, velribak: král všech Degénů,   Agent: už ani nevim, jak se menoval ten z toho tajemnýho networku,    nejradši bych to zavolal i Volajemovi...  a další   ..... ///Anycoin/// ///club101///  
