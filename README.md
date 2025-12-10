@@ -586,7 +586,7 @@ Navier‑Stokes QFM spectral solver
 15. KarelCapek101 License, Version 1.0
 
 Copyright ©
-2025 Roman Smrčka („Author“)
+2025 Enter Yourname („Author“)
 and any contributors explicitly acknowledged in project materials.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
